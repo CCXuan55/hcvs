@@ -38,12 +38,12 @@ BOARD_MARGIN     = 2
 
 # Color declarations in the RGB notation
 WHITE    = (255,255,255)
-RED      = (255,0,0)
-GREEN    = (0,255,0)
-BLUE     = (0,0,255)
-ORANGE   = (255,69,0)
+RED      = (237,46,18 )
+GREEN    = (128,255,0)
+BLUE     = (107,181,248)
+ORANGE   = (255,128,0)
 GOLD     = (255,125,0)
-PURPLE   = (128,0,128)
+PURPLE   = (128,128,192)
 CYAN     = (0,255,255) 
 BLACK    = (0,0,0)
 
